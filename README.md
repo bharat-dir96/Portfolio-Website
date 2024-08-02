@@ -1,3 +1,3 @@
 # Portfolio-Website
 Link to view the website -
-https://my-portfolio-website.bharataggarwal2.repl.co
+https://bharat-dir96.github.io/Portfolio-Website/
